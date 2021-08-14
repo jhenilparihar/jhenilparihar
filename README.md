@@ -6,7 +6,7 @@
 <a href="https://twitter.com/jhenil_parihar">
   <img align="left" alt="Jhenil | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="linkedin.com/in/jhenil-parihar-44051a216">
+<a href="https://linkedin.com/in/jhenil-parihar-44051a216">
   <img align="left" alt="Jhenil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
