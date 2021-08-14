@@ -1,4 +1,4 @@
-### Heyyoo, I’m Jhenil Parihar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Heyyoo, I’m Jhenil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://discord.gg/c5Nnz3hUDu">
   <img align="left" alt="Jhenil's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -14,7 +14,9 @@
 </a>
 
 <br>
-hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<br>
+
+Hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
