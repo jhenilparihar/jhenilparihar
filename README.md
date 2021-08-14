@@ -3,12 +3,16 @@
 <a href="https://discord.gg/c5Nnz3hUDu">
   <img align="left" alt="Jhenil's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/jhenil_parihar">
+<a href="https://twitter.com/JhenilParihar">
   <img align="left" alt="Jhenil | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/jhenil-parihar-44051a216">
   <img align="left" alt="Jhenil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://instagram.com/jhenil_parihar">
+  <img align="left" alt="Jhenil's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
+</a>
+
 <br>
 hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
