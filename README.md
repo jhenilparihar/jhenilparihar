@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jhenilparihar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Heyyoo, I’m Jhenil Parihar! 👋
 
-<!---
-jhenilparihar/jhenilparihar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Python Developement
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on GitHub
+- 🤔 I'm looking for help with Data Science
+- 💬 Ask me about Python or any tech-related stuff.
+- 📫 How to reach me LinkedIn @jhenilparihar
+- ⚡ Fun fact : The first computer “bug” was an actual real-life bug
