@@ -9,10 +9,16 @@
 <a href="linkedin.com/in/jhenil-parihar-44051a216">
   <img align="left" alt="Jhenil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br>
+hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-- 👀 I’m interested in Python Developement
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/83356501/129451786-db9a63ed-8171-4206-a369-96ba56e2b9c3.gif" width="500" height="320" />
+
+
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on GitHub
-- 🤔 I'm looking for help with Data Science
-- 💬 Ask me about Python or any tech-related stuff.
+- 💼 any freelance work? do reach, [email](mailto:jhenilparihar@gmail.com) :)
+- 💬 Ask me about anything, i am happy to help;
 - ⚡ Fun fact : The first computer “bug” was an actual real-life bug
