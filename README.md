@@ -1,4 +1,4 @@
-### Heyyoo, I’m Jhenil Parihar! 👋
+### Heyyoo, I’m Jhenil Parihar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 👀 I’m interested in Python Developement
 - 🌱 I’m currently learning Data Analysis
