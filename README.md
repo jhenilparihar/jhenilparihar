@@ -9,9 +9,6 @@
 <a href="linkedin.com/in/jhenil-parihar-44051a216">
   <img align="left" alt="Jhenil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/jhenil_parihar/">
-  <img align="left" alt="Jhenil's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
 
 - 👀 I’m interested in Python Developement
 - 🌱 I’m currently learning Data Analysis
