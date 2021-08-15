@@ -12,6 +12,7 @@
 <a href="https://instagram.com/jhenil_parihar">
   <img align="left" alt="Jhenil's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
 </a>
+##Your are ![Visitor Count](https://profile-counter.glitch.me/jhenilparihar/count.svg) Viewer
 
 <br>
 <br>
@@ -25,6 +26,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 - 🌱 I’m currently learning Data Analysis
-- 💼 any freelance work? do reach, [email](mailto:jhenilparihar@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:jhenilparihar@gmail.com)
 - 💬 Ask me about anything, i am happy to help;
 - ⚡ Fun fact : The first computer “bug” was an actual real-life bug
+- 
