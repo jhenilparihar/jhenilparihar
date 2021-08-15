@@ -7,15 +7,13 @@
   <img align="left" alt="Jhenil | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/jhenil-parihar-44051a216">
-  <img align="left" alt="Jhenil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jhenil's LinkedIN" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://instagram.com/jhenil_parihar">
-  <img align="left" alt="Jhenil's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
+  <img align="left" alt="Jhenil's LinkedIN" width="22" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
 </a>
-##Your are ![Visitor Count](https://profile-counter.glitch.me/jhenilparihar/count.svg) Viewer
 
-<br>
-<br>
+<img src="https://profile-counter.glitch.me/jhenilparihar/count.svg" height=28 />
 
 Hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
@@ -28,5 +26,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 🌱 I’m currently learning Data Analysis
 - 💼 any freelance work? do reach, [email](mailto:jhenilparihar@gmail.com)
 - 💬 Ask me about anything, i am happy to help;
-- ⚡ Fun fact : The first computer “bug” was an actual real-life bug
-- 
+- ⚡ Fun fact : The first computer “bug” was an actual real-life bug 
