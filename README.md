@@ -15,9 +15,9 @@
 
 <img src="https://profile-counter.glitch.me/jhenilparihar/count.svg" height=28 />
 
-Hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/83356501/129451786-db9a63ed-8171-4206-a369-96ba56e2b9c3.gif" width="500" height="320" />
@@ -28,7 +28,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 Ask me about anything, i am happy to help;
 - ⚡ Fun fact : The first computer “bug” was an actual real-life bug 
 
-**languages and tools:**  
+<h4>Languages and Tools:</h4>
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -40,4 +40,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="30" src="https://user-images.githubusercontent.com/83356501/129472755-f48047f1-7d3f-40a2-9db8-0472bd8d4ec5.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/83356501/129473343-d1e34adb-a530-4e88-9076-e6c8ca9d5fae.png"></code>
 
-
+<br>
+If you like what i do, maybe consider buying me a coffee <br> 🥺👉👈
+<br><br>
+<a href="https://www.buymeacoffee.com/jhenilparihar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
