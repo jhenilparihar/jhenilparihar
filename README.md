@@ -23,7 +23,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/83356501/129451786-db9a63ed-8171-4206-a369-96ba56e2b9c3.gif" width="500" height="320" />
 
 
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Everthing
 - 💼 any freelance work? do reach, [email](mailto:jhenilparihar@gmail.com)
 - 💬 Ask me about anything, i am happy to help;
 - ⚡ Fun fact : The first computer “bug” was an actual real-life bug 
