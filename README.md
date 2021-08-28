@@ -20,8 +20,7 @@ Hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/83356501/129451786-db9a63ed-8171-4206-a369-96ba56e2b9c3.gif" width="500" height="320" />
-
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/83356501/131203131-201654ed-3a37-412e-a6ee-9ea3ddc18b02.gif" width="500" height="320" />
 
 - 🌱 I’m currently learning Everthing 😜
 - 💼 any freelance work? do reach, [email](mailto:jhenilparihar@gmail.com)
