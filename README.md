@@ -10,7 +10,7 @@
   <img align="left" alt="Jhenil's LinkedIN" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://instagram.com/jhenil_parihar">
-  <img align="left" alt="Jhenil's LinkedIN" width="22" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
+  <img align="left" alt="Jhenil's Instagram" width="22" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
 </a>
 
 <img src="https://profile-counter.glitch.me/jhenilparihar/count.svg" height=28 />
