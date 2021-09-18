@@ -56,8 +56,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <p>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=jhenilparihar&show_icons=true&theme=tokyonight" />
-  <img width="400" margin="50" src="https://github-readme-streak-stats.herokuapp.com/?user=jhenilparihar&theme=tokyonight" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=jhenilparihar&show_icons=true&theme=tokyonight" />
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=jhenilparihar&theme=tokyonight" />
 </p>
 
 
