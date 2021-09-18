@@ -50,10 +50,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br> -->
 <br>
 
----
-
 <p align="center">
+  
+  ---
+<!--   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jhenilparihar&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jhenilparihar&theme=tokyonight" />
-<!-- tokyonight -->
+   -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jhenilparihar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhenilparihar&theme=tokyonight" />
+<!-- gotham -->
 </p>
