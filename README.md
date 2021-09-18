@@ -49,8 +49,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://www.buymeacoffee.com/jhenilparihar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br> -->
 <br>
-<br>
- <p align="center">
+
+---
+
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jhenilparihar&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jhenilparihar&theme=tokyonight" />
 <!-- tokyonight -->
