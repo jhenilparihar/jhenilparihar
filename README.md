@@ -19,8 +19,6 @@
 
 <a href="https://jhenilparihar.github.io/resume-website/">Check Out My Website</a>
 
-<button name="button" type="button" class="btn btn-block js-profile-editable-edit-button">Check Out My Website</button>
-
 Hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <a href="https://jhenilparihar.github.io/resume-website/">
