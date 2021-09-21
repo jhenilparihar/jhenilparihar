@@ -1,4 +1,4 @@
-<h3> Heyyoo, I’m Jhenil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
+<h3> Heyyoo, I’m Jhenil! <a href="https://jhenilparihar.github.io/resume-website/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h3>
   
 <a href="https://discord.gg/c5Nnz3hUDu">
   <img align="left" alt="Jhenil's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -31,7 +31,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <li> 🌱 I’m currently learning Everthing 😜 </li>
 <li> 💼 any freelance work? do reach, <a href="mailto:jhenilparihar@gmail.com">email</a></li>
 <li> 💬 Ask me about anything, i am happy to help; </li>
-<li> ⚡ Fun fact : The first computer “bug” was an actual real-life bug </li>
+<li> ⚡ Fun fact : Why developer use dark mode? Because light attracts bugs 😆</li>
 </ul>
 
 <h4>Languages and Tools:</h4>
