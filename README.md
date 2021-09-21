@@ -1,4 +1,6 @@
-### Heyyoo, I’m Jhenil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://jhenilparihar.github.io/resume-website/">
+<div>
+<h3> Heyyoo, I’m Jhenil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
 
 <a href="https://discord.gg/c5Nnz3hUDu">
   <img align="left" alt="Jhenil's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -25,11 +27,12 @@ Hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-- 🌱 I’m currently learning Everthing 😜
-- 💼 any freelance work? do reach, [email](mailto:jhenilparihar@gmail.com)
-- 💬 Ask me about anything, i am happy to help;
-- ⚡ Fun fact : The first computer “bug” was an actual real-life bug 
-
+<ul>
+<li> 🌱 I’m currently learning Everthing 😜 </li>
+<li> 💼 any freelance work? do reach, [email](mailto:jhenilparihar@gmail.com) </li>
+<li> 💬 Ask me about anything, i am happy to help; </li>
+<li> ⚡ Fun fact : The first computer “bug” was an actual real-life bug </li>
+</ul>
 <h4>Languages and Tools:</h4>
 
 
@@ -48,13 +51,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <p>
   <hr>
 <p>
-
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=jhenilparihar&show_icons=true&theme=tokyonight" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jhenilparihar&theme=tokyonight" />
 </p>
-<meta name="google-site-verification" content="SAypnOtZ1XF--ovPNwZQ2n_9RA-FXrbzw8JHDu6CL_M" />
 
-
-
-
+</div>
+</a>
