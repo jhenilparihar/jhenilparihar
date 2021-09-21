@@ -19,7 +19,7 @@
 
 <a href="https://jhenilparihar.github.io/resume-website/">Check Out My Website</a>
 
-<button name="button" type="button" class="btn btn-block js-profile-editable-edit-button" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:83356501,&quot;target&quot;:&quot;INLINE_EDIT_BUTTON&quot;,&quot;user_id&quot;:83356501,&quot;originating_url&quot;:&quot;https://jhenilparihar.github.io/resume-website/&quot;}}" data-hydro-click-hmac="d40d4ca1b49a33c8157b82a89e5cdae8db4801f5e89ba368ba9725492bbd34b9">Check Out My Website</button>
+<button name="button" type="button" class="btn btn-block js-profile-editable-edit-button">Check Out My Website</button>
 
 Hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
