@@ -16,8 +16,12 @@
 <a href="https://jhenilparihar.github.io/resume-website/">
 <img src="https://profile-counter.glitch.me/jhenilparihar/count.svg" height=28 />
 </a>
+<br>
+<br>
 
-![button_check-out-my-website](https://user-images.githubusercontent.com/83356501/134544734-940a2e25-4eef-44e8-b2dd-da23c07ca9b7.png)
+
+![button_check-out-my-website (1)](https://user-images.githubusercontent.com/83356501/134544920-123540fa-fb64-4777-a632-e61c7e496cd5.png)
+
 
 <!-- <a href="https://jhenilparihar.github.io/resume-website/">Check Out My Website</a> -->
 
