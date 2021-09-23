@@ -1,16 +1,16 @@
 <h3> Heyyoo, I’m Jhenil! <a href="https://jhenilparihar.github.io/resume-website/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h3>
   
 <a href="https://discord.gg/c5Nnz3hUDu">
-  <img align="left" alt="Jhenil's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Jhenil | Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/JhenilParihar">
   <img align="left" alt="Jhenil | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/jhenil-parihar-44051a216">
-  <img align="left" alt="Jhenil's LinkedIN" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jhenil | LinkedIN" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://instagram.com/jhenil_parihar">
-  <img align="left" alt="Jhenil's Instagram" width="22" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
+  <img align="left" alt="Jhenil | Instagram" width="22" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
 </a>
 
 <a href="https://jhenilparihar.github.io/resume-website/">
@@ -18,10 +18,11 @@
 </a>
 <br>
 <br>
-
-
-
-![button_check-out-my-website (2)](https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=16&tc=c9d1d9&hp=18&vp=14&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666)
+<a href="https://jhenilparihar.github.io/resume-website/">
+<img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=16&tc=c9d1d9&hp=18&vp=14&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" />
+</a>
+<br>
+<br>
 
 <!-- <a href="https://jhenilparihar.github.io/resume-website/">Check Out My Website</a> -->
 
