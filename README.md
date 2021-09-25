@@ -26,7 +26,7 @@
 
 <!-- <a href="https://jhenilparihar.github.io/resume-website/">Check Out My Website</a> -->
 
-Hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Jhenil Parihar, a passionate <!--self-taught--> Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <a href="https://jhenilparihar.github.io/resume-website/">
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="370" height="270" />
