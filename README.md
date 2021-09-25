@@ -19,7 +19,7 @@
 <br>
 <br>
 <a href="https://jhenilparihar.github.io/resume-website/">
-<img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=16&tc=c9d1d9&hp=18&vp=14&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" />
+<img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=16&tc=c9d1d9&hp=10&vp=10&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" />
 </a>
 <br>
 <br>
