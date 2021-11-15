@@ -36,7 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <li> 🌱 I’m currently learning Everthing 😜 </li>
 <li> 💼 any freelance work? do reach, <a href="mailto:jhenilparihar@gmail.com">email</a></li>
 <li> 💬 Ask me about anything, i am happy to help; </li>
-<li> ⚡ Fun fact : Why developer use dark mode? Because light attracts bugs 😆</li>
+<li> ⚡ Fun : Why developer use dark mode? Because light attracts bugs 😆</li>
 </ul>
 
 <h4>Languages and Tools:</h4>
