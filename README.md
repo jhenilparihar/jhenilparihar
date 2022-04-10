@@ -1,6 +1,6 @@
 <h1> Hello, I’m Jhenil! <a href="https://jhenilparihar.github.io/resume-website/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
   
-<a href="https://discord.gg/c5Nnz3hUDu">
+<a href="https://discord.gg/kNjpgMfS2Q">
   <img align="left" alt="Jhenil | Discord" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/JhenilParihar">
