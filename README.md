@@ -71,10 +71,20 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jhenilparihar&theme=tokyonight" />
   </a>
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+### Contributor Graph
+
+<details>
+<summary>Expand</summary>
 <p>
  <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=jhenilparihar&bg_color=000000&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
   </a>
 </p>
+</details>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<p align="center">
+<img align="center" src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
+</p>
