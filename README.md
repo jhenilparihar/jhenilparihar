@@ -18,15 +18,15 @@
 </a>
 <br>
 <br>
-<span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="https://jhenilparihar.github.io/resume-website/"> <img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=18&tc=c9d1d9&hp=70&vp=12&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" /></a></span>
-<br>
-<br>
-
+<!-- <span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="https://jhenilparihar.github.io/resume-website/"> <img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=18&tc=c9d1d9&hp=70&vp=12&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" /></a></span> -->
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&vCenter=true&lines=Python+Enthusiast!;Currently+Learning+Solidity"alt="Currently Learning Solidity">
+</p>
 <!-- <a href="https://jhenilparihar.github.io/resume-website/">Check Out My Website</a> -->
 
 Hi, i'm Jhenil Parihar, a passionate <!--self-taught--> Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-<a href="https://jhenilparihar.github.io/resume-website/">
+<a href="#">
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="370" height="270" />
 </a>
 
