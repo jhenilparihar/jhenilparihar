@@ -1,5 +1,9 @@
-<h1> Hello, I’m Jhenil! <a href="https://jhenilparihar.github.io/resume-website/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a></h1>
-  
+<img  align="right" src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="150"/>
+
+<h1> Hello, I’m Jhenil! 👋</h1>
+
+<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">-->
+
 <a href="https://discord.gg/kNjpgMfS2Q">
   <img align="left" alt="Jhenil | Discord" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -11,6 +15,9 @@
 </a>
 <a href="https://instagram.com/jhenil_parihar">
   <img align="left" alt="Jhenil | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
+</a>
+<a href="https://www.hackerearth.com/@jhenilparihar">
+  <img align="left" alt="Jhenil | LinkedIN" width="30" src="https://user-images.githubusercontent.com/83356501/178090371-f0db6ab9-2764-4d48-8eeb-719685a33911.png" />
 </a>
 
 <a href="https://jhenilparihar.github.io/resume-website/">
@@ -59,7 +66,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <hr>
 <p>
 <p align="center">
-  <a href="https://jhenilparihar.github.io/resume-website/">
+  <a href="#">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=jhenilparihar&show_icons=true&theme=tokyonight" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jhenilparihar&theme=tokyonight" />
   </a>
@@ -69,3 +76,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <img src="https://activity-graph.herokuapp.com/graph?username=jhenilparihar&bg_color=000000&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
   </a>
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
