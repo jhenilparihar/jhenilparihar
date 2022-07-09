@@ -66,6 +66,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p>
 <p>
  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=aromalsanthosh&bg_color=000000&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=jhenilparihar&bg_color=000000&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
   </a>
 </p>
