@@ -90,5 +90,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </details>
 
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
+<img align="center" src="https://raw.githubusercontent.com/jhenilparihar/jhenilparihar/output/github-contribution-grid-snake-dark.svg">
 </p>
