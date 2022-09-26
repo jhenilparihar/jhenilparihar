@@ -27,7 +27,7 @@
 <br>
 <!-- <span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="https://jhenilparihar.github.io/resume-website/"> <img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=18&tc=c9d1d9&hp=70&vp=12&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" /></a></span> -->
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&vCenter=true&lines=Python+Enthusiast!;Currently+Learning+Solidity"alt="Currently Learning Solidity">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&vCenter=true&lines=Python+Enthusiast!;Currently+Learning+Flutter"alt="Currently Learning Solidity">
 </p>
 
 <!-- <a href="https://jhenilparihar.github.io/resume-website/">Check Out My Website</a> -->
