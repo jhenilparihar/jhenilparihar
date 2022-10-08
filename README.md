@@ -4,7 +4,7 @@
 
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">-->
 
-<a href="https://discord.gg/kNjpgMfS2Q">
+<a href="https://discord.gg/kRYeKpSs">
   <img align="left" alt="Jhenil | Discord" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/JhenilParihar">
