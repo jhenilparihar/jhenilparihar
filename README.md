@@ -50,13 +50,9 @@
 
 
 <!-- <span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="https://jhenilparihar.github.io/resume-website/"> <img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=18&tc=c9d1d9&hp=70&vp=12&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" /></a></span> -->
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&vCenter=true&lines=Python+Enthusiast!;Currently+Learning+Flutter"alt="Currently Learning Solidity">
-</p>
+
 
 <!-- <a href="https://jhenilparihar.github.io/resume-website/">Check Out My Website</a> -->
-
-![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
 
 Hi, i'm Jhenil Parihar, a passionate <!--self-taught--> Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
