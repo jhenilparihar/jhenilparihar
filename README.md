@@ -23,10 +23,10 @@
     <img height="33" src="https://user-images.githubusercontent.com/83356501/178090371-f0db6ab9-2764-4d48-8eeb-719685a33911.png" alt="Jhenil | HackerEarth" >
   </a>&nbsp;&nbsp;
   
-<!--   <a href="https://jhenilparihar.github.io/resume-website/">
+  <!-- <a href="https://jhenilparihar.github.io/resume-website/">
     <img src="https://profile-counter.glitch.me/jhenilparihar/count.svg" height=32 />
-  </a>   -->
-<!--   <a href="https://bit.ly/arup-resume">
+  </a>  
+  <a href="https://bit.ly/arup-resume">
     <img height="33" src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true">
   </a>&nbsp;&nbsp; -->
 </p>
@@ -34,28 +34,32 @@
 <div align="center">
 
 `Python-Developer` 🐍 | `Website Developer` 💻 | `System-Design` :neckbeard: | `Open-Source-Developer` 🚀
- 
-<p>
-  <a href="https://github.com/jhenilparihar/jhenilparihar/actions/workflows/snake-grid-animation.yml">
-    <img src="https://github.com/0xStryK3R/0xStryK3R/actions/workflows/snake-grid-animation.yml/badge.svg">
-  </a>&nbsp;
-  <a href="https://visitor-badge.glitch.me/#docs">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=jhenilparihar.jhenilparihar&right_color=orange">
-  </a>&nbsp;
-  <a href="https://wakatime.com/@59ac8832-75f2-43ed-89d9-66c301e1283c"><img src="https://wakatime.com/badge/user/59ac8832-75f2-43ed-89d9-66c301e1283c.svg" alt="Total time coded since Nov 1 2022" />
-  </a>&nbsp; 
-   <a href="https://github.com/jhenilparihar/jhenilparihar/commitsR"><img src="https://img.shields.io/github/last-commit/jhenilparihar/jhenilparihar/main?label=Last%20updated&style=flat">
-  </a>&nbsp;
-</div>
 
+  <p>
+    <a href="https://github.com/jhenilparihar/jhenilparihar/actions/workflows/snake-grid-animation.yml">
+      <img src="https://github.com/0xStryK3R/0xStryK3R/actions/workflows/snake-grid-animation.yml/badge.svg">
+    </a>
+    &nbsp;
+    <a href="https://visitor-badge.glitch.me/#docs">
+      <img src="https://visitor-badge.glitch.me/badge?page_id=jhenilparihar.jhenilparihar&right_color=orange" />
+    </a>
+    &nbsp;
+    <a href="https://wakatime.com/@59ac8832-75f2-43ed-89d9-66c301e1283c">
+      <img src="https://wakatime.com/badge/user/59ac8832-75f2-43ed-89d9-66c301e1283c.svg" alt="Total time coded since Nov 1 2022" />
+    </a>
+    &nbsp; 
+    <a href="https://github.com/jhenilparihar/jhenilparihar/commitsR">
+      <img src="https://img.shields.io/github/last-commit/jhenilparihar/jhenilparihar/main?label=Last%20updated&style=flat" />
+    </a>
+    &nbsp;
+</div>
 
 <!-- <span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="https://jhenilparihar.github.io/resume-website/"> <img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=18&tc=c9d1d9&hp=70&vp=12&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" /></a></span> -->
 
-
 <!-- <a href="https://jhenilparihar.github.io/resume-website/">Check Out My Website</a> -->
 
-
-Hi, i'm Jhenil Parihar, a passionate <!--self-taught--> Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+<!-- 
+Hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <a href="#">
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="370" height="270" />
@@ -68,7 +72,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <li> 💼 any freelance work? do reach, <a href="mailto:jhenilparihar@gmail.com">email</a></li>
 <li> 💬 Ask me about anything, i am happy to help; </li>
 <li> ⚡ Fun : Why developer use dark mode? Because light attracts bugs 😆</li>
-</ul>
+</ul> 
+-->
 
 <h4>Languages and Tools:</h4>
 
