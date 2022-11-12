@@ -120,28 +120,28 @@ If you like what i do, maybe consider buying me a coffee <br> 🥺👉👈
 <br>
 -->
 
-  <hr>
+<hr>
 
+<h2 align="center"> 📈 Statistics </h2>
 <p align="center">
-  <a href="#">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=jhenilparihar&show_icons=true&theme=tokyonight" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jhenilparihar&theme=tokyonight" />
-  </a>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jhenilparihar&show_icons=true&theme=tokyonight" />
+  &nbsp;
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jhenilparihar&theme=tokyonight" />
 </p>
+
+<details align="center">
+    <summary> <code>Click for More Stats</code> </summary>
+    <br>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenilparihar&layout=compact&theme=tokyonight" />
+    &nbsp;
+    <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=jhenilparihar&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
+</details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
-### Contributor Graph
-
-<details>
-<summary>Expand</summary>
-<p>
- <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=jhenilparihar&bg_color=000000&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
-  </a>
-</p>
-</details>
 
 <p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
+
 <img align="center" src="https://github.com/jhenilparihar/jhenilparihar/blob/output/github-contribution-grid-snake.svg">
 </p>
