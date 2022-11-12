@@ -150,19 +150,10 @@ If you like what i do, maybe consider buying me a coffee <br> 🥺👉👈
 <h2 align="center">🤝 Support</h2>
 
 <div align="center">
-<p>🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
-<p>💙 If you like what i do, give me some ⭐'s and share with your friends!</p>
-<details align="center">
-    <summary><code>Or you could also 🥺👉👈 </code></summary>
-    <br>
-   <!--maybe consider buying me a coffee/tea 🥺👉👈-->
-    <a href="https://www.buymeacoffee.com/jhenilparihar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</details>
- </p>
-<p>Made with ❤️ from India</p>
-    
+ <p>🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
+ <p>💙 If you like what i do, give me some ⭐'s and share with your friends!</p>
+ <p>Made with ❤️ from India</p>   
 </div>
-
 
 <h2 align='center'>⚡️<i>Keep Coding!</i>⚡️</h2>
 
