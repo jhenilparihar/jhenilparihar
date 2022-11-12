@@ -54,11 +54,34 @@
     &nbsp;
 </div>
 
-<!-- <span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="https://jhenilparihar.github.io/resume-website/"> <img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=18&tc=c9d1d9&hp=70&vp=12&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" /></a></span> -->
+<h2 align="center">🔨 Languages, Frameworks & Tools 🔨</h2>
+<br>
+<div align="center">
+    <img alt="Python" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="App Development" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /> 
+    <img alt="React" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+    <img alt="Flutter" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
+    <img alt="Solidity" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+    <img alt="Javascript" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="Flask" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> 
+    <img alt="Jupiter" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />  
+    <img alt="Pandas" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />      
+    <img alt="Java" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="C++" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img alt="HTML5" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="CSS" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="Github" height ="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img alt="Git" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="VSCode" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+<br>
 
-<!-- <a href="https://jhenilparihar.github.io/resume-website/">Check Out My Website</a> -->
+<!--
+<span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <a href="https://jhenilparihar.github.io/resume-website/"> <img src="https://dabuttonfactory.com/button.png?t=Check+Out+My+Website&f=Open+Sans-Bold&ts=18&tc=c9d1d9&hp=70&vp=12&c=10&bgt=unicolored&bgc=21262d&bs=1&bc=666" /></a></span>
+<a href="https://jhenilparihar.github.io/resume-website/">Check Out My Website</a>
+-->
 
-<!-- 
+<!--
 Hi, i'm Jhenil Parihar, a passionate self-taught Junior Python developer and Web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <a href="#">
@@ -72,9 +95,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <li> 💼 any freelance work? do reach, <a href="mailto:jhenilparihar@gmail.com">email</a></li>
 <li> 💬 Ask me about anything, i am happy to help; </li>
 <li> ⚡ Fun : Why developer use dark mode? Because light attracts bugs 😆</li>
-</ul> 
+</ul>
 -->
 
+<!--
 <h4>Languages and Tools:</h4>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -87,13 +111,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://user-images.githubusercontent.com/83356501/129473343-d1e34adb-a530-4e88-9076-e6c8ca9d5fae.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/83356501/134815738-ebaca0c6-29f3-481f-910a-0dd7dcaf27a3.png"></code>
 
-<!-- If you like what i do, maybe consider buying me a coffee <br> 🥺👉👈
+-->
+
+<!--
+If you like what i do, maybe consider buying me a coffee <br> 🥺👉👈
 <br><br>
 <a href="https://www.buymeacoffee.com/jhenilparihar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<br> -->
-<p>
+<br>
+-->
+
   <hr>
-<p>
+
 <p align="center">
   <a href="#">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=jhenilparihar&show_icons=true&theme=tokyonight" />
