@@ -158,5 +158,5 @@ If you like what i do, maybe consider buying me a coffee <br> 🥺👉👈
 <h2 align='center'>⚡️<i>Keep Coding!</i>⚡️</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" alt="Github Stats" />
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" alt="" />
 </p>
