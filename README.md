@@ -33,7 +33,7 @@
 
 <div align="center">
 
-`Python-Developer` 🐍 | `Website Developer` 💻 | `System-Design` :neckbeard: | `Open-Source-Developer` 🚀
+`Python-Developer` 🐍 | `Website Developer` 💻 | `Open-Source-Developer` 🚀
 
   <p>
     <a href="https://github.com/jhenilparihar/jhenilparihar/actions/workflows/snake-grid-animation.yml">
