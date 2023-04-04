@@ -40,8 +40,8 @@
       <img src="https://github.com/0xStryK3R/0xStryK3R/actions/workflows/snake-grid-animation.yml/badge.svg">
     </a>
     &nbsp;
-    <a href="https://visitor-badge.glitch.me/#docs">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=jhenilparihar.jhenilparihar&right_color=orange" />
+    <a href="https://komarev.com/ghpvc/?username=jhenilparihar&label=Profile%20views&color=ce9927&style=flat">
+      <img src="https://komarev.com/ghpvc/?username=jhenilparihar&label=Profile%20views&color=ce9927&style=flat" alt="Vistor Counter" />
     </a>
     &nbsp;
     <a href="https://wakatime.com/@59ac8832-75f2-43ed-89d9-66c301e1283c">
