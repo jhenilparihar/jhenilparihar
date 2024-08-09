@@ -168,7 +168,12 @@ If you like what i do, maybe consider buying me a coffee <br> 🥺👉👈
     <br>
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenilparihar&layout=compact&theme=tokyonight" />
     &nbsp;
-    <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=jhenilparihar&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
+    <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhenilparihar&theme=react-dark" />
+<br>
+<br>
+ 
+![Jhenil's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhenilparihar\&layout=compact&theme=tokyonight)
+ 
 </details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
