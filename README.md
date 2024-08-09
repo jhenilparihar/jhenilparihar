@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align='center'>
-  <a href="https://linkedin.com/in/jhenil-parihar-44051a216">
+  <a href="https://linkedin.com/in/jhenil-parihar-44051a216" style="text-decoration: none;" padding=0 margin=0>
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Jhenil | LinkedIN">
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/JhenilParihar">
@@ -19,16 +19,15 @@
   <a href="https://discord.gg/kRYeKpSs">
     <img height="33" src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" alt="Jhenil | Discord" >
   </a>&nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/@jhenilparihar">
-    <img height="33" src="https://user-images.githubusercontent.com/83356501/178090371-f0db6ab9-2764-4d48-8eeb-719685a33911.png" alt="Jhenil | HackerEarth" >
-  </a>&nbsp;&nbsp;
+
+   <a href="https://drive.google.com/file/d/1vHZ4_UdiU57ZHf_BfnrG7J8rIsF4Gs18/view?usp=sharing">
+    <img height="33" src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true">
+  </a>&nbsp;&nbsp; 
   
   <!-- <a href="https://jhenilparihar.github.io/resume-website/">
     <img src="https://profile-counter.glitch.me/jhenilparihar/count.svg" height=32 />
   </a>  
-  <a href="https://bit.ly/arup-resume">
-    <img height="33" src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true">
-  </a>&nbsp;&nbsp; -->
+ -->
 </p>
 
 <div align="center">
